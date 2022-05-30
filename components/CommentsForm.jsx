@@ -90,7 +90,7 @@ const CommentsForm = ({ slug }) => {
 
           Publier votre commentaire
           </button>
-          {showSuccessMessage && <span className='text-xl float-right font-semibold mt-3 text-green-500'>Votre commentaire sera publier après modération.</span>}
+          {showSuccessMessage && <span className='text-xl float-right font-semibold mt-3 text-green-500'>Votre commentaire sera publié après modération.</span>}
         </div>
     </div>
   )
